@@ -1,0 +1,324 @@
+{
+  "NumOfResults": 23,
+  "List": {
+    "RedDoorz": {
+      "Data": [
+        {
+          "FullName": "Rakabuming Gibran",
+          "Phone": "6285811053303",
+          "Email": "gibranrakabuming26@gmail.com",
+          "Password(bcrypt)": "$2a$10$2mBS80sswHDIQG.nn/3YiOqKsbjFB4.ZnUC.FJoRenKib6DUapxem",
+          "RegDate": "2020-01-27 18:19:52",
+          "Avatar": "https://lh3.googleusercontent.com/-e64kqJ872Io/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdvbOb9j-e2hqTxPI-bFgRjVXXimA/s96-c/photo.jpg",
+          "Provider": "Google"
+        }
+      ],
+      "NumOfResults": 1,
+      "InfoLeak": "In September 2020, booking platform RedDoorz suffered a data breach. Data from 5.8 million user accounts were exposed. The hacked data included names, email addresses, phone numbers, gender, dates of birth and passwords in the form of bcrypt hashes."
+    },
+    "Tokopedia": {
+      "Data": [
+        {
+          "FullName": "Gibran Rakabuming",
+          "Email": "gibranrakabuming09@gmail.com",
+          "Gender": "0",
+          "RegDate": "2019-03-08 18:32:42"
+        },
+        {
+          "FullName": "Gibran Rakabuming",
+          "Email": "gibranrakabuming18@gmail.com",
+          "Gender": "1",
+          "BDay": "1985-05-05",
+          "RegDate": "2019-08-01 10:49:58",
+          "LastActive": "2019-08-01 10:52:33.240157"
+        },
+        {
+          "FullName": "Gibran Rakabuming",
+          "Phone": "6283815894870",
+          "Email": "gibranrakabuming808@yahoo.com",
+          "Password(SHA2-384)": "2d54885456057605802964b58f1221fae6d437921d8bac10ad8c6a854a2530f0f06005beee4557c985cb7b165d08818f",
+          "Salt": "ace0",
+          "Gender": "1",
+          "BDay": "1990-07-21",
+          "RegDate": "2018-02-03 23:07:37.072445",
+          "LastActive": "2018-11-08 23:11:19.688249"
+        },
+        {
+          "FullName": "Gibran Rakabuming",
+          "Phone": "6283861892833",
+          "Email": "bayuaditoped213@gmail.com",
+          "Password(SHA2-384)": "41e2d5b594f040cb730d2f092e3b6dda1591f4b9b3f0f14bbb8fc18ca327929b61c87b5c1b69d449760855b22369a368",
+          "Salt": "6dc01e9cecef022944292f73f086a4fcbc4a71a7c2e2e2164b881d03bdc83f6e",
+          "Gender": "0",
+          "RegDate": "2019-12-03 10:11:13",
+          "LastActive": "2019-12-03 10:12:57.208041"
+        }
+      ],
+      "NumOfResults": 4,
+      "InfoLeak": "In April 2020, Indonesia's largest online store was hacked. The hacker forum posted 90 million lines of data, including emails, names, gender, dates of birth and passwords in the form of SHA2-384 hashes."
+    },
+    "Wahana Express": {
+      "Data": [
+        {
+          "FullName": "GIBRAN RAKABUMING",
+          "Phone": "0271733072",
+          "NickName": "Puni Anjungsari ( CITI INDONESIA )",
+          "CompanyName": "DRP",
+          "Region": "Pasar Kliwon",
+          "City": "Jawa Tengah",
+          "Address": "WALIKOTA SURAKARTA, JL JEND. SOEDIRMAN NO.2, KP BARU, KEC PASAR KLIWON, KOTA SURAKARTA 57133",
+          "LastActive(UNIX)": "2021-08-04T03:54:01",
+          "Location": "8A.3.1.868 (JATENG SURAKARTA LAWEYAN,PASARKLIWON,SERENGAN)",
+          "Company": "AGEN WPL JAKARTA SAHARJO TEBET MANGGARAI",
+          "Status": "Selesai",
+          "Type": "missingterkirimsj",
+          "Date": "2021-09-01T07:17:46.127Z",
+          "Category": "BUKU",
+          "Size": "40x29x4",
+          "District": "Kampung Baru",
+          "ShippingAddress": "Jawa Tengah, Kota Surakarta, Pasar Kliwon, Kampung Baru",
+          "Phone2": "0215908329",
+          "Price": "1000"
+        },
+        {
+          "FullName": "Gibran Rakabuming Raka",
+          "Phone": "081804500168",
+          "NickName": "1000startup",
+          "CompanyName": "Dodik Sulistiyanto Hadi",
+          "Region": "Laweyan",
+          "City": "Jawa Tengah",
+          "Address": "Jl. Doktor Radjiman No.289 (Papajo Resto), PanularanLaweyan, SurakartaJawa Tengah57149  ",
+          "LastActive(UNIX)": "2021-09-18T04:15:01",
+          "Location": "8A.3.1.868 (JATENG SURAKARTA LAWEYAN,PASARKLIWON,SERENGAN)",
+          "Company": "AGEN WPL TANGERANG CILEDUG PENINGGILAN SUNAN GUNUNG JATI",
+          "Status": "Selesai",
+          "Type": "mta_ttk_aktif",
+          "Date": "2021-09-18T11:15:01.303Z",
+          "Category": "SOUVENIR",
+          "Size": "41x31x11",
+          "District": "Panularan",
+          "ShippingAddress": "Jawa Tengah, Kota Surakarta, Laweyan, Panularan",
+          "Phone2": "081229598800",
+          "Price": "199000"
+        },
+        {
+          "FullName": "Gibran Rakabuming Raka",
+          "Phone": "081804500168",
+          "NickName": "ANWAR",
+          "CompanyName": "Dodik Sulistiyanto Hadi",
+          "Region": "Laweyan",
+          "City": "Jawa Tengah",
+          "Address": "Jl. Doktor Radjiman No.289 (Papajo Resto), Panularan  Laweyan, Surakarta57149  ",
+          "LastActive(UNIX)": "2021-09-11T03:09:01",
+          "Location": "8A.3.1.868 (JATENG SURAKARTA LAWEYAN,PASARKLIWON,SERENGAN)",
+          "Company": "AGEN WPL TANGERANG CILEDUG PENINGGILAN SUNAN GUNUNG JATI",
+          "Status": "Selesai",
+          "Type": "mta_ttk_aktif",
+          "Date": "2021-09-11T10:09:09.833Z",
+          "Category": "BUKU",
+          "Size": "22x22x11",
+          "District": "Panularan",
+          "ShippingAddress": "Jawa Tengah, Kota Surakarta, Laweyan, Panularan",
+          "Phone2": "081295193665",
+          "Price": "199000"
+        }
+      ],
+      "NumOfResults": 3,
+      "InfoLeak": "Wahana is a large Indonesian transport company. At the beginning of 2022, about 17 million records of deliveries by this service were publicly available. The data contains names, addresses, data about parcels and their costs, as well as one or two phone numbers."
+    },
+    "BukalaPak": {
+      "Data": [
+        {
+          "FullName": "Gibran Rakabuming",
+          "Email": "damas.gilang@yahoo.com",
+          "Password(bcrypt)": "$2a$10$hD7MDxLuTnAT6br3vSLXP.w3LsX7SrziSWalVl.aWum2d7ZWfTpT6",
+          "Salt": "JDYZnwSkycO9j5wZdgDJ",
+          "NickName": "damasgilang"
+        }
+      ],
+      "NumOfResults": 1,
+      "InfoLeak": "In March 2019, Indonesian e-commerce website Bukalapak discovered a data breach of the organization's backups dating back to October 2017. The incident exposed approximately 13 million unique email addresses, as well as IP addresses, names and passwords in bcrypt and SHA hashes. 512 with salt."
+    },
+    "Cutout.pro": {
+      "Data": [
+        {
+          "NickName": "Gibran Rakabuming",
+          "Email": "rakabumingg001@gmail.com",
+          "Salt": "5cfc108655a1bfba8f25",
+          "IP": "114.7.96.244",
+          "RegDate": "28/1/2024 13:28:21"
+        }
+      ],
+      "NumOfResults": 1,
+      "InfoLeak": "Cutout is a website for photo editing using artificial intelligence. In February 2024, the site suffered a hack that resulted in the publication of data on 22 million users. The information includes names, emails, IP addresses and passwords in the form of salted MD5 hashes."
+    },
+    "Bureau van Dijk": {
+      "Data": [
+        {
+          "FullName": "GIBRAN RAKABUMING RAKA",
+          "CountryCode": "ID"
+        }
+      ],
+      "NumOfResults": 1,
+      "InfoLeak": "Around July 2021, business information publisher specializing in “private company data,” Bureau van Dijk, suffered a data breach. The violation included full names, email addresses, phone numbers, physical addresses, dates of birth, job titles, European VAT numbers, tax numbers, patent numbers, patents. names, company names and other data. A total of 484 million rows of data."
+    },
+    "Instagram Parsing": {
+      "Data": [
+        {
+          "FullName": "Gibran Rakabuming Raka",
+          "Email": "npelajar@gmail.com",
+          "NickName": "masgibranaja",
+          "InstagramID": "8756096220"
+        }
+      ],
+      "NumOfResults": 1,
+      "InfoLeak": "In 2022, the Instagram user base, collected through parsing, began to spread in Telegram channels. The date of data collection is unknown, but the database contains 17 million records, including names, emails, phone numbers, nicknames and addresses."
+    },
+    "MyPertamina": {
+      "Data": [
+        {
+          "FullName": "GIBRAN RAKABUMING RAKA",
+          "Phone": "+6282331218780",
+          "Email": "raka.fd016@gmail.com",
+          "Phone2": "+6219568564699",
+          "RegDate": "2017-12-04 09:34:12",
+          "LastActive": "2017-12-04 09:35:36",
+          "Income": "0"
+        }
+      ],
+      "NumOfResults": 1,
+      "InfoLeak": "In November 2022, Indonesian oil and gas company Pertamina suffered a data breach on its MyPertamina service. The incident revealed 44 million records with 6 million unique email addresses, as well as names, dates of birth, gender, physical addresses and purchases."
+    },
+    "Dukcapil": {
+      "Data": [
+        {
+          "FullName": "gibran rakabuming raka",
+          "Phone": "00000",
+          "Region": "kota surakarta",
+          "Address": "jl. ahmad yani no.331 tirtoyoso",
+          "Gender": "male",
+          "Passport": "j5tkozlyhonaphattbxl3g%3d%3d",
+          "BDay": "01-10-1987",
+          "Location": "banjarsari",
+          "District": "manahan"
+        }
+      ],
+      "NumOfResults": 1,
+      "InfoLeak": "In 2023, it became known about a data leak from Dukcapil, a government service for document management in Indonesia. According to experts, more than 337 million records were stolen, but only 24 million of them were publicly available. The data contains telephone numbers, names, dates of birth, addresses and NIK numbers, which are used in the ID card."
+    },
+    "IndonesiaCarOwner": {
+      "Data": [
+        {
+          "FullName": "GIBRAN RAKABUMING RAKA",
+          "Address": "JL AHMAD YANI 331 TIRTOYOSO RT04/13 MANAHAN BANJARSARI - SURAKARTA",
+          "AutoNumber": "AD6000GU",
+          "BPKB": "O00648450I",
+          "NIK": "3372050110870004",
+          "AutoBrand": "RYL ENFIELD",
+          "Type": "BULLET CLASSIC 500",
+          "VIN": "ME3U5S5F1HF110139",
+          "EngineNumber": "U5S5F0HA187033",
+          "Color": "HIJAU||(TAK DIISI)",
+          "VehicleYear": "2017||500"
+        },
+        {
+          "FullName": "GIBRAN RAKABUMING RAKA",
+          "Address": "JL AHMAD YANI NO 331 TIRTOYOSO RT 04/13 MANAHAN BANJARSARI SURAKARTA",
+          "AutoNumber": "AD6700YA",
+          "AutoBrand": "HONDA",
+          "Type": "Y1G02N02L0 A/T",
+          "VIN": "MH1JFS115FK145810",
+          "EngineNumber": "JFS1E1143880",
+          "Color": "HITAM||HITAM",
+          "VehicleYear": "2015||110"
+        },
+        {
+          "FullName": "GIBRAN RAKABUMING RAKA",
+          "Address": "JL AHMAD YANI NO 331 TIRTOYOSO RT 04/13 MANAHAN BJS SKA",
+          "AutoNumber": "AD1590KU",
+          "AutoBrand": "ISUZU",
+          "Type": "NKR 55 CC E2-1",
+          "VIN": "MHCNK55EYCJ045216",
+          "EngineNumber": "M045216",
+          "Color": "WHITE SILVER||HITAM",
+          "VehicleYear": "2012||2771"
+        },
+        {
+          "FullName": "GIBRAN RAKABUMING RAKA",
+          "Address": "JL AHMAD YANI NO 331 TIRTOYOSO RT 04/13 MANAHAN BJS SKA",
+          "AutoNumber": "AD9382KU",
+          "BPKB": "I08244042I",
+          "AutoBrand": "MAZDA",
+          "Type": "2 1.5L HB R M/T",
+          "VIN": "MM6DE10Y1C0201153",
+          "EngineNumber": "ZYA52617",
+          "Color": "PUTIH||HITAM",
+          "VehicleYear": "2012||1498"
+        },
+        {
+          "FullName": "GIBRAN RAKABUMING RAKA",
+          "Address": "JL AHMAD YANI NO 331 TIRTOYOSO RT 04/13 MANAHANBANJARSARI SURAKARTA",
+          "AutoNumber": "AD1750WH",
+          "AutoBrand": "FOTON",
+          "Type": "BJ 1039V3JD3-B",
+          "VIN": "MJWVDJD51BK001095",
+          "EngineNumber": "BJ493ZQ710076",
+          "Color": "BIRU||HITAM",
+          "VehicleYear": "2011||2771"
+        },
+        {
+          "FullName": "GIBRAN RAKABUMING RAKA",
+          "Address": "JL AHMAD YANI NO 331 TIRTOYOSO RT 04/13 MANAHANBANJARSARI SURAKARTA",
+          "AutoNumber": "AD6643UH",
+          "AutoBrand": "HONDA",
+          "Type": "CB125",
+          "VIN": "QQ5721256",
+          "EngineNumber": "CB125SE1145219",
+          "Color": "MERAH HITAM||HITAM",
+          "VehicleYear": "1974||125"
+        },
+        {
+          "FullName": "GIBRAN RAKABUMING RAKA",
+          "Address": "JL AHMAD YANI NO 331 TIRTOYOSO RT 04/13MANAHAN BANJARSARI SURKARTA",
+          "AutoNumber": "AD7777VA",
+          "AutoBrand": "MITSUBISHI",
+          "Type": "PAJERO SPORT 2.4L DAKAR (4X2) 8 A/T",
+          "VIN": "MMBGUKR10GH015758",
+          "EngineNumber": "4N15UAN2855",
+          "Color": "PUTIH MUTIARA||HITAM",
+          "VehicleYear": "2016||2442"
+        },
+        {
+          "FullName": "GIBRAN RAKABUMING RAKA",
+          "Address": "TIRTOYOSO JL AHMAT YANI 331 RT 04/13 MANAHAN BJS SKA",
+          "AutoNumber": "AD9078JU",
+          "BPKB": "02862826I",
+          "AutoBrand": "TOYOTA",
+          "Type": "AVANZA 1.3G/F601RM-GMMFJJ",
+          "VIN": "MHFM1BA3JBK363772",
+          "EngineNumber": "DJ38862",
+          "Color": "HITAM METALIK||HITAM",
+          "VehicleYear": "2011||1298"
+        },
+        {
+          "FullName": "GIBRAN RAKABUMING RAKA",
+          "Address": "TIRTOYOSO JL AHMAT YANI 331 RT04/13 MANAHAN BJS SKA",
+          "AutoNumber": "AD1947NU",
+          "BPKB": "1408891I",
+          "AutoBrand": "ISUZU",
+          "Type": "P UP TURBO/TBR54",
+          "VIN": "MHCTBR54BAK152367",
+          "EngineNumber": "E152367",
+          "Color": "HITAM||HITAM",
+          "VehicleYear": "2010||2499"
+        }
+      ],
+      "NumOfResults": 9,
+      "InfoLeak": "In 2021, a file containing information about car owners in Indonesia appeared online. The data contains 35 million records, including names and addresses of owners, as well as vehicle data - make, model, color, year of manufacture, VIN, as well as BPKB and NIK numbers, which are used in documents as identification information."
+    }
+  },
+  "NumOfDatabase": 10,
+  "search time": 0.1230743,
+  "price": 0,
+  "free_requests_left": 96
+}
